@@ -1,0 +1,50 @@
+.breadcrumbs {
+  background: linear-gradient(to left, #294A70, #5576E8);
+}
+
+.breadcrumbs__list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 17px auto;
+  padding: 0;
+  width: 320px;
+  list-style: none;
+
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.breadcrumbs__item {
+  display: flex;
+}
+
+.breadcrumbs__link {
+  padding: 8px;
+
+  color: white;
+  text-align: center;
+}
+
+.breadcrumbs__separator {
+  padding: 7px 8px 13px 0;
+
+  color: #46c1ae;
+  text-align: center;
+}
+
+@media (min-width: @tablet-width) {
+  .breadcrumbs__list {
+    justify-content: flex-start;
+    width: 768px;
+    padding: 0 50px;
+  }
+}
+
+@media (min-width: @desktop-width) {
+  .breadcrumbs__list {
+    justify-content: flex-start;
+    width: 1150px;
+    padding: 0 50px;
+  }
+}

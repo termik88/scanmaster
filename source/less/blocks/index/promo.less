@@ -1,0 +1,104 @@
+/*promo - block*/
+.promo__container {
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+
+  background-image: url("../img/bg-1.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: auto 375px;
+
+
+  //@media (min-resolution: @retina-dpi), (min-resolution: @retina-dppx) {
+  //  background: url("../img/hero-mobile@2x.jpg");
+  //  background-repeat: no-repeat;
+  //  background-position: 50% 0;
+  //  background-size: auto 375px;
+  //}
+}
+
+//.promo__container::after {
+//  content: '';
+//  position: absolute;
+//  top: 0;
+//  left: 0;
+//  right: 0;
+//  bottom: 0;
+//  background: rgba(0,0,0,.3);
+//  z-index: 2;
+//}
+
+.promo__title {
+  margin: 100px 30px 60px 30px;
+
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 30px;
+  text-align: center;
+
+  color: white;
+  text-shadow: #294a70 2px 2px 0, #294a70 -2px -2px 0,
+    #294a70 -2px 2px 0, #294a70 2px -2px 0, black 0 0 50px;
+}
+
+@media (min-width: @tablet-width) {
+  .promo__container {
+    width: 768px;
+    margin-bottom: 60px;
+    padding: 0 50px;
+
+    background-image: url("../img/bg-1.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: auto 745px;
+
+    //@media (min-resolution: @retina-dpi), (min-resolution: @retina-dppx) {
+    //  background: url("../img/hero-tablet@2x.jpg");
+    //  background-repeat: no-repeat;
+    //  background-position: 50% 0;
+    //  background-size: auto 745px;
+    //}
+
+    //.zigzag-top (-12px, 24px, 768px, url("../img/zigzag-line-top.svg"));
+  }
+
+  .promo__title {
+    margin-top: 170px;
+    margin-bottom: 60px;
+
+    font-size: 43px;
+    line-height: 50px;
+  }
+}
+
+@media (min-width: @desktop-width) {
+  .promo__container {
+    width: 1150px;
+    padding: 0 50px;
+
+    background-image: url("../img/bg-1.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: auto 985px;
+
+    //@media (min-resolution: @retina-dpi), (min-resolution: @retina-dppx) {
+    //  background: url("../img/hero-tablet@2x.jpg");
+    //  background-repeat: no-repeat;
+    //  background-position: 50% 0;
+    //  background-size: auto 785px;
+    //}
+
+    //.zigzag-top (-18px, 34px, 1250px, url("../img/zigzag-line-top-desk.svg"));
+  }
+
+  .promo__title {
+    margin-top: 270px;
+    margin-bottom: 230px;
+
+    font-size: 53px;
+    line-height: 57px;
+  }
+}

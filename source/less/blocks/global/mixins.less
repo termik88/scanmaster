@@ -1,0 +1,48 @@
+/*mixins - block*/
+.btn-mix() {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  color: @grey-text;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: center;
+
+  border: 2px solid @grey-text;
+
+  background: none;
+  background-color: @white;
+
+  cursor: pointer;
+
+  &:hover,
+  &:focus {
+    color: @white;
+
+    background-color: @grey-text;
+  }
+
+  &:active {
+    color: rgba(255, 255, 255, 0.3);
+  }
+}
+
+.section-container-320() {
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  margin: 0 auto;
+  margin-bottom: 6px;
+  padding: 0 30px;
+}
+
+.section-container-768() {
+  position: relative;
+  width: 768px;
+  padding: 0 50px 0 217px;
+}
+
+.section-container-1150() {
+  width: 1150px;
+  padding: 0 225px;
+}

@@ -1,0 +1,78 @@
+/*car__photos-block photos-block*/
+.photos-block {
+  margin-bottom: 24px;
+
+  &__photo-main {
+    display: block;
+    width: 260px;
+    margin-bottom: 10px;
+
+    background-color: @bg-grey;
+  }
+
+  &__link {
+    margin: 0;
+    padding: 0;
+  }
+
+  &__image {
+    width: 83px;
+    height: 83px;
+
+    box-shadow: 0 0 3px 0 #000000;
+    background-color: @bc-grey;
+    cursor: pointer;
+  }
+
+  &__image:focus,
+  &__image:hover {
+    box-shadow: 2px 2px 0 0 @bg-dark-green;
+    opacity: 0.8;
+  }
+}
+
+@media (min-width: @tablet-width) {
+  .photos-block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 333px;
+
+    &__photo-main {
+      width: 333px;
+      height: 333px;
+    }
+
+    &__image {
+      width: 106px;
+      height: 106px;
+    }
+
+    &__image:focus,
+    &__image:hover {
+      box-shadow: 4px 4px 0 0 @bg-dark-green;
+    }
+  }
+}
+
+@media (min-width: @desktop-width) {
+  .photos-block {
+    margin-bottom: 24px;
+    width: 525px;
+
+    &__photo-main {
+      width: 525px;
+      height: 525px;
+    }
+
+    &__image {
+      width: 168px;
+      height: 168px;
+    }
+
+    &__image:focus,
+    &__image:hover {
+      box-shadow: 6px 6px 0 0 @bg-dark-green;
+    }
+  }
+}

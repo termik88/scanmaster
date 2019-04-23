@@ -1,0 +1,24 @@
+/*hits - block*/
+.hits__container {
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  margin: 0 auto;
+  padding: 30px 30px 0 30px;
+}
+
+@media (min-width: @tablet-width) {
+  .hits__container {
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 768px;
+    padding: 30px 50px 0 50px;
+  }
+}
+
+@media (min-width: @desktop-width) {
+  .hits__container {
+    width: 1180px;
+  }
+}

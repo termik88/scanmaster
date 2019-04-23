@@ -1,0 +1,35 @@
+/*item__order order*/
+.order {
+  display: flex;
+  justify-content: space-between;
+  padding: 21px 0 26px 0;
+
+  box-shadow: 0 -1px 0 0 @bc-grey;
+}
+
+.order__price {
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 24px;
+  color: @black;
+}
+
+.order__link-icon {
+  fill: #294a70;
+
+  &:hover,
+  &:focus {
+    opacity: 1;
+    fill: @bg-dark-green;
+  }
+
+  &:active {
+    opacity: 0.3;
+  }
+}
+
+@media (min-width: @desktop-width) {
+  .order__modal-link {
+    display: none;
+  }
+}
