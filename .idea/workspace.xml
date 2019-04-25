@@ -3,18 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2e6d4048-e572-4abd-b323-9b407b09a306" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/catalog/avtomobil'nye-aksessuary.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/catalog/avtomobil'nye-aksessuary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/catalog/diagnosticheskie-scanery.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/catalog/diagnosticheskie-scanery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/img/icon-aksessuary.svg" beforeDir="false" afterPath="$PROJECT_DIR$/source/img/icon-aksessuary.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/img/icon-kabeli.svg" beforeDir="false" afterPath="$PROJECT_DIR$/source/img/icon-kabeli.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/img/icon-menu-close.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/img/icon-menu-open.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/source/img/icon-scanery.svg" beforeDir="false" afterPath="$PROJECT_DIR$/source/img/icon-scanery.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/img/icon-tolshchinomery.svg" beforeDir="false" afterPath="$PROJECT_DIR$/source/img/icon-tolshchinomery.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/less/blocks/commons/categories.less" beforeDir="false" afterPath="$PROJECT_DIR$/source/less/blocks/commons/categories.less" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,24 +18,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-              <folding>
-                <element signature="n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>315</find>
+      <find>M167.329</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,13 +38,18 @@
         <option value="$PROJECT_DIR$/source/js/scripts.js" />
         <option value="$PROJECT_DIR$/source/less/blocks/index/promo.less" />
         <option value="$PROJECT_DIR$/source/catalog.html" />
-        <option value="$PROJECT_DIR$/source/index.html" />
         <option value="$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli.html" />
         <option value="$PROJECT_DIR$/source/catalog/avtomobil'nye-aksessuary.html" />
         <option value="$PROJECT_DIR$/source/catalog/diagnosticheskie-scanery.html" />
         <option value="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya.html" />
         <option value="$PROJECT_DIR$/source/less/style.less" />
         <option value="$PROJECT_DIR$/source/less/blocks/commons/categories.less" />
+        <option value="$PROJECT_DIR$/build/img/sprite.svg" />
+        <option value="$PROJECT_DIR$/source/img/icon-aksessuary.svg" />
+        <option value="$PROJECT_DIR$/source/img/icon-kabeli.svg" />
+        <option value="$PROJECT_DIR$/source/img/icon-scanery.svg" />
+        <option value="$PROJECT_DIR$/source/img/icon-tolshchinomery.svg" />
+        <option value="$PROJECT_DIR$/source/index.html" />
       </list>
     </option>
   </component>
@@ -86,22 +72,6 @@
             <path>
               <item name="scanmaster" type="b2602c69:ProjectViewProjectNode" />
               <item name="scanmaster" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scanmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scanmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scanmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scanmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scanmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scanmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,12 +123,12 @@
       <workItem from="1556005613913" duration="136000" />
       <workItem from="1556006076305" duration="13594000" />
       <workItem from="1556169397091" duration="14089000" />
-      <workItem from="1556189931889" duration="2949000" />
+      <workItem from="1556189931889" duration="5623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33267000" />
+    <option name="totallyTimeSpent" value="35941000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -178,7 +148,7 @@
       <window_info id="npm" order="3" side_tool="true" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32841823" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -187,12 +157,12 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32841823" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003362" side_tool="true" weight="0.32841823" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49966374" visible="true" weight="0.32707775" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49966374" visible="true" weight="0.32707775" />
       <window_info anchor="bottom" id="File Transfer" order="11" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.34835237" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.34835237" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,10 +298,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/img/icon-aksessuary.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/img/icon-kabeli.svg">
+    <entry file="file://$PROJECT_DIR$/source/img/icon-delivery.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/source/img/icon-scanery.svg">
@@ -340,13 +307,19 @@
     <entry file="file://$PROJECT_DIR$/source/img/icon-tolshchinomery.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/icon-kabeli.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/icon-aksessuary.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/build/img/sprite.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/source/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <caret line="92" column="20" lean-forward="true" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
           <folding>
             <element signature="n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
