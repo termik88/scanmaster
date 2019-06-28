@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e6d4048-e572-4abd-b323-9b407b09a306" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli/perekhodnik-HDMI-VGA-(HDMI-to-VGA)+audio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli/perekhodnik-HDMI-VGA-(HDMI-to-VGA).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-EM2271A.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-Richmeters-GY-910.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-Yunombo-YNB-100.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-pokrytij-ALLSUN-EM2271.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-pokrytij-Benetech-GM200A.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/less/blocks/product-description/description.less" beforeDir="false" afterPath="$PROJECT_DIR$/source/less/blocks/product-description/description.less" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,34 +25,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/index.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="68" column="12" lean-forward="true" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+            <state relative-caret-position="238">
+              <caret line="166" column="89" selection-start-line="166" selection-start-column="89" selection-end-line="166" selection-end-column="89" />
               <folding>
-                <element signature="n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#article#0;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#article#1;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#article#3;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#article#4;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sitemap.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-Richmeters-GY-910.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="92" column="78" selection-start-line="92" selection-start-column="78" selection-end-line="92" selection-end-column="78" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>315</find>
       <find>M167.329</find>
+      <find>Конвертер</find>
+      <find>konverter-adapter</find>
+      <find>Переходник HDMI-VGA (HDMI to VGA)</find>
+      <find>perekhodnik-HDMI-VGA-(HDMI-to-VGA)</find>
+      <find>perekhodnik-GM12-PIN-OBD2</find>
+      <find>diagnosticheskie-perekhodniki-i-kabeli</find>
+      <find>Диагностический адаптер Ancel ELM327 v1.5 Bluetooth</find>
+      <find>Ancel-ELM327-V1.5-Bluetooth</find>
+      <find>Ancel ELM327 v1.5 Bluetooth</find>
+      <find>diagnosticheskie-scanery</find>
+      <find>tolshchinomer-pokrytij-Benetech-GM200A</find>
+      <find>Толщиномер покрытий Benetech GM200A</find>
+      <find>Толщиномер Richmeters GY-910</find>
+      <find>tolshchinomer-Richmeters-GY-910</find>
+      <find>tolshchinomer-Yunombo-YNB-100</find>
+      <find>Толщиномер Yunombo YNB-100</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -57,10 +92,8 @@
         <option value="$PROJECT_DIR$/source/js/scripts.js" />
         <option value="$PROJECT_DIR$/source/less/blocks/index/promo.less" />
         <option value="$PROJECT_DIR$/source/catalog.html" />
-        <option value="$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli.html" />
         <option value="$PROJECT_DIR$/source/catalog/avtomobil'nye-aksessuary.html" />
         <option value="$PROJECT_DIR$/source/catalog/diagnosticheskie-scanery.html" />
-        <option value="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya.html" />
         <option value="$PROJECT_DIR$/source/less/style.less" />
         <option value="$PROJECT_DIR$/source/less/blocks/commons/categories.less" />
         <option value="$PROJECT_DIR$/build/img/sprite.svg" />
@@ -69,6 +102,17 @@
         <option value="$PROJECT_DIR$/source/img/icon-scanery.svg" />
         <option value="$PROJECT_DIR$/source/img/icon-tolshchinomery.svg" />
         <option value="$PROJECT_DIR$/source/index.html" />
+        <option value="$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli/konverter-adapter-HDMI-VGA-(HDMI-to-VGA).html" />
+        <option value="$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli.html" />
+        <option value="$PROJECT_DIR$/source/less/blocks/product-description/description.less" />
+        <option value="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-Yunombo-YNB-100.html" />
+        <option value="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-pokrytij-Benetech-GM200A.html" />
+        <option value="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-pokrytij-ALLSUN-EM2271.html" />
+        <option value="$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli/perekhodnik-HDMI-VGA-(HDMI-to-VGA).html" />
+        <option value="$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli/perekhodnik-HDMI-VGA-(HDMI-to-VGA)+audio.html" />
+        <option value="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-EM2271A.html" />
+        <option value="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-Richmeters-GY-910.html" />
+        <option value="$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya.html" />
       </list>
     </option>
   </component>
@@ -97,6 +141,30 @@
               <item name="scanmaster" type="462c0819:PsiDirectoryNode" />
               <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="scanmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scanmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scanmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scanmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scanmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scanmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scanmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scanmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="tolshchinomery-lakokrasochnogo-pokrytiya" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -104,6 +172,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
@@ -153,11 +222,19 @@
       <workItem from="1556006076305" duration="13594000" />
       <workItem from="1556169397091" duration="14089000" />
       <workItem from="1556189931889" duration="10819000" />
+      <workItem from="1561635665387" duration="1774000" />
+      <workItem from="1561637509653" duration="1776000" />
+      <workItem from="1561639467444" duration="851000" />
+      <workItem from="1561703388953" duration="1774000" />
+      <workItem from="1561705224196" duration="696000" />
+      <workItem from="1561707862094" duration="1769000" />
+      <workItem from="1561709718839" duration="1274000" />
+      <workItem from="1561711041688" duration="1643000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41137000" />
+    <option name="totallyTimeSpent" value="54429000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -170,9 +247,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19435105" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30127773" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -185,14 +261,15 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32841823" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.13538875" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003362" side_tool="true" weight="0.32841823" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49966374" weight="0.32707775" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49966374" visible="true" weight="0.32707775" />
       <window_info anchor="bottom" id="File Transfer" order="11" weight="0.3297587" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.34835237" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.34835237" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,20 +347,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="78" column="60" selection-start-line="78" selection-start-column="60" selection-end-line="78" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="78" column="60" selection-start-line="78" selection-start-column="42" selection-end-line="78" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/less/blocks/commons/product.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -350,19 +413,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/catalog/diagnosticheskie-scanery/Ancel-ELM327-V1.5-Bluetooth.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/catalog/diagnosticheskie-scanery/Ancel-ELM327-V1.5-Bluetooth.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="68" column="12" lean-forward="true" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+        <state relative-caret-position="615">
+          <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
           <folding>
             <element signature="n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
@@ -374,8 +448,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sitemap.xml">
+    <entry file="file://$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli/nabor-perekhodnikov-AutoCom-dlya-gruzovyh-avtomobilej.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli/perekhodnik-GM12-PIN-OBD2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli/perekhodnik-GM12-PIN-OBD2.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-pokrytij-Benetech-GM200A.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="107" selection-start-line="107" selection-end-line="130" selection-end-column="26" />
+          <folding>
+            <element signature="n#article#0;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#1;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#2;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#3;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#4;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#5;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#6;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#7;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#8;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#9;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/catalog/diagnosticheskie-scanery/Ancel-ELM327-V1.5-Bluetooth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="38" selection-end-line="261" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/less/blocks/product-description/description.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="61" column="24" lean-forward="true" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-pokrytij-Benetech-GM200A.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-pokrytij-ALLSUN-EM2271.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="126" selection-start-line="9" selection-start-column="126" selection-end-line="9" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli/perekhodnik-HDMI-VGA-(HDMI-to-VGA).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/catalog/diagnosticheskie-perekhodniki-i-kabeli/perekhodnik-HDMI-VGA-(HDMI-to-VGA)+audio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="139" selection-start-line="9" selection-start-column="139" selection-end-line="9" selection-end-column="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-Yunombo-YNB-100.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="84" selection-end-line="222" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-EM2271A.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="129" column="63" selection-start-line="129" selection-start-column="63" selection-end-line="129" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya/tolshchinomer-Richmeters-GY-910.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="92" column="78" selection-start-line="92" selection-start-column="78" selection-end-line="92" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/catalog/tolshchinomery-lakokrasochnogo-pokrytiya.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="166" column="89" selection-start-line="166" selection-start-column="89" selection-end-line="166" selection-end-column="89" />
+          <folding>
+            <element signature="n#article#0;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#1;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#3;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#4;n#div#1;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
